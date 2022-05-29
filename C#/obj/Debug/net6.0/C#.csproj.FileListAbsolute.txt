@@ -1,0 +1,15 @@
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/workspaces/LeetCode/C#/bin/Debug/net6.0/C#
+/workspaces/LeetCode/C#/bin/Debug/net6.0/C#.deps.json
+/workspaces/LeetCode/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/workspaces/LeetCode/C#/bin/Debug/net6.0/C#.dll
+/workspaces/LeetCode/C#/bin/Debug/net6.0/C#.pdb
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.dll
+/workspaces/LeetCode/C#/obj/Debug/net6.0/refint/C#.dll
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.pdb
+/workspaces/LeetCode/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/workspaces/LeetCode/C#/obj/Debug/net6.0/ref/C#.dll
