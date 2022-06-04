@@ -1,4 +1,5 @@
 //29/05/2022
+//https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 //Question
 //Input: nums1 = [1,3], nums2 = [2]
@@ -8,8 +9,7 @@
 //Runtime: 178 ms, faster than 16.55% of C# online submissions for Median of Two Sorted Arrays.
 //Memory Usage: 39.8 MB, less than 53.00% of C# online submissions for Median of Two Sorted Arrays.
 
-namespace MedianOfTwoSortedArrays{
-    public class Solution {
+public class MedianOfTwoSortedArraysSolution {
         public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
             int[] combined = nums1.Concat(nums2).ToArray();
             Array.Sort(combined);
@@ -50,5 +50,4 @@ namespace MedianOfTwoSortedArrays{
                 }
             }
         }
-    }    
-}
+    }
